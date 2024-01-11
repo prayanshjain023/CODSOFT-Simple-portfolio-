@@ -6,6 +6,9 @@
 #about .top-header h1 {
     display: none;
 }
+.featured-text{
+    padding-top: 0vh;
+}
 .nav-menu .nav-menu-list{
     position: absolute;
     top: 100%;
